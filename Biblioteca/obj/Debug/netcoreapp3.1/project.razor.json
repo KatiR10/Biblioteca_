@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14424,16 @@
     {
       "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14469,6 +14484,11 @@
     {
       "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Katia\\Desktop\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\editarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\editarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {

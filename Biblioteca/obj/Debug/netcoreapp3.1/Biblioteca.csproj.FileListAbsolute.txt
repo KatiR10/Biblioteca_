@@ -51,3 +51,7 @@ C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.
 C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+C:\Users\Katia\Desktop\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
